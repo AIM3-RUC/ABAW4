@@ -13,8 +13,8 @@ MAE Model pretrained on the EmotionNet dataset: [GoogleDrive](https://drive.goog
 ## DenseNet Model
 DenseNet Model pretrained on FER+ and AffectNet datasets: [GoogleDrive](https://drive.google.com/file/d/1eWE0A3FNmFk9Fgq9PCOog3I1o142YaG2/view?usp=sharing) | [BaiduNetdisk](https://pan.baidu.com/s/1mQbWsTSj70TSfcHGoeYRpA?pwd=chw3)
 
-## IRestNet Model
-Please contact liuchuanhe@situdata.com to apply for IRestNet Model download. 
+## IResNet Model
+Please contact liuchuanhe@situdata.com to apply for IResNet Model download. 
 
 # Presentation Slides
 Our presentation slides at ECCV 2022: [GoogleDrive](https://drive.google.com/file/d/16BHUfjLFnpgdS3FORMSFQFdPcFjixO2C/view?usp=sharing) | [BaiduNetdisk](https://pan.baidu.com/s/1W_S_KzRocwYq1rQepSIdOA?pwd=u9uh)
